@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\projects\\game\\BattleUE5\\Source\\BattleUE5\\BattleUE5.Build.cs",
+		"C:\\projects\\game\\BattleUE5\\Source\\BattleUE5.Target.cs",
+		"C:\\projects\\game\\BattleUE5\\Source\\BattleUE5Editor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

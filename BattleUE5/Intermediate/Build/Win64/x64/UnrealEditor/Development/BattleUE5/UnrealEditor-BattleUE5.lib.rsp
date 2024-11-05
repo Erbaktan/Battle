@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BattleUE5.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\projects\game\BattleUE5\Intermediate\Build\Win64\x64\BattleUE5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\projects\game\BattleUE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\BattleUE5\BattleUE5.cpp.obj"
+"C:\projects\game\BattleUE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\BattleUE5\MyClass.cpp.obj"
+"C:\projects\game\BattleUE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\BattleUE5\Default.rc2.res"
+/OUT:"C:\projects\game\BattleUE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\BattleUE5\UnrealEditor-BattleUE5.lib"

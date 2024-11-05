@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\game\\battleue5\\source\\battleue5\\battleue5.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\game\\battleue5\\intermediate\\build\\win64\\x64\\battleue5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\projects\\game\\battleue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\battleue5\\definitions.battleue5.h",
+            "c:\\projects\\game\\battleue5\\source\\battleue5\\battleue5.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
